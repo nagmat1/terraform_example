@@ -71,7 +71,7 @@ Success! The configuration is valid.
 # Step 8 : Execution phase 
 
 1. ```terrraform plan```
-   ```aws_budgets_budget.minbudget: Refreshing state... [id=471112594414:monthly-budget]
+   ``` aws_budgets_budget.minbudget: Refreshing state... [id=471112594414:monthly-budget]
 
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
   ~ update in-place
