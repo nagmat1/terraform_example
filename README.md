@@ -24,3 +24,7 @@ is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.
 ```IAM MANAGEMENT --> create access key``` 
 
 ![image](https://github.com/user-attachments/assets/e3e7422b-7477-49ae-b047-e235a726f9ea)
+
+# Step 3 : Setup AWS Profile
+
+![image](https://github.com/user-attachments/assets/a1e1be37-3ef1-46a3-b061-a29eb2f3baa0)
