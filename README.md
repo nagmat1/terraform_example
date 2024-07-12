@@ -28,3 +28,8 @@ is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.
 # Step 3 : Setup AWS Profile
 
 ![image](https://github.com/user-attachments/assets/a1e1be37-3ef1-46a3-b061-a29eb2f3baa0)
+
+# Step 4 : Terraform config 
+
+1. Create main.tf file.
+2. 
