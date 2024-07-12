@@ -14,3 +14,7 @@ Your version of Terraform is out of date! The latest version
 is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.html
 
 ```
+
+```aws --version```
+
+```aws-cli/2.17.12 Python/3.11.9 Linux/6.5.0-41-generic exe/x86_64.ubuntu.22```
