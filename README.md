@@ -129,3 +129,8 @@ aws_budgets_budget.minbudget: Modifications complete after 1s [id=471112594414:m
 Apply complete! Resources: 0 added, 1 changed, 0 destroyed.
 ```
 
+# Config changes 
+
+Edit the main.tf file : 
+
+``` terraform apply ```
