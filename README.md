@@ -61,3 +61,9 @@ commands will detect it and remind you to do so if necessary.
 # Step 7 : Terraform validate 
 
 ``` terraform validate ```
+
+```
+Success! The configuration is valid.
+
+
+```
