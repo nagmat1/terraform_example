@@ -41,7 +41,7 @@ is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.
 Initializing the backend...
 Initializing provider plugins...
 - Reusing previous version of hashicorp/aws from the dependency lock file
-- Using previously-installed hashicorp/aws v3.5.0
+- Using previously-installed hashicorp/aws v3.5.0https://github.com/nagmat1/terraform_example/tree/main
 
 Terraform has been successfully initialized!
 
@@ -70,8 +70,9 @@ Success! The configuration is valid.
 
 # Step 8 : Execution phase 
 
-1. ```terrraform plan```
-   ``` aws_budgets_budget.minbudget: Refreshing state... [id=471112594414:monthly-budget]
+1. ``` terrraform plan ```
+```
+aws_budgets_budget.minbudget: Refreshing state... [id=471112594414:monthly-budget]
 
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
   ~ update in-place
