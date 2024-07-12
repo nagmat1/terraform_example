@@ -22,3 +22,5 @@ is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.
 # Step 2 : Setup AWS Credentials 
 
 ```IAM MANAGEMENT --> create access key``` 
+
+![image](https://github.com/user-attachments/assets/e3e7422b-7477-49ae-b047-e235a726f9ea)
