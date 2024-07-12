@@ -32,4 +32,7 @@ is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.
 # Step 4 : Terraform config 
 
 1. Create main.tf file.
-2. 
+
+# Step 5 : Terraform init 
+
+```terraform init  ```
