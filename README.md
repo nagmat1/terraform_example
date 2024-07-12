@@ -18,3 +18,7 @@ is 1.9.2. You can update by downloading from https://www.terraform.io/downloads.
 ```aws --version```
 
 ```aws-cli/2.17.12 Python/3.11.9 Linux/6.5.0-41-generic exe/x86_64.ubuntu.22```
+
+# Step 2 : Setup AWS Credentials 
+
+```IAM MANAGEMENT --> create access key``` 
