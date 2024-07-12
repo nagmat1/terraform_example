@@ -134,3 +134,35 @@ Apply complete! Resources: 0 added, 1 changed, 0 destroyed.
 Edit the main.tf file : 
 
 ``` terraform apply ```
+
+```
+aws_budgets_budget.minbudget: Refreshing state... [id=471112594414:monthly-budget]
+
+Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
+  ~ update in-place
+
+Terraform will perform the following actions:
+
+  # aws_budgets_budget.minbudget will be updated in-place
+  ~ resource "aws_budgets_budget" "minbudget" {
+        id                = "471112594414:monthly-budget"
+      ~ limit_amount      = "1.0" -> "2"
+        name              = "monthly-budget"
+        # (7 unchanged attributes hidden)
+
+        # (1 unchanged block hidden)
+    }
+
+Plan: 0 to add, 1 to change, 0 to destroy.
+
+Do you want to perform these actions?
+  Terraform will perform the actions described above.
+  Only 'yes' will be accepted to approve.
+
+  Enter a value: yes
+
+aws_budgets_budget.minbudget: Modifying... [id=471112594414:monthly-budget]
+aws_budgets_budget.minbudget: Modifications complete after 0s [id=471112594414:monthly-budget]
+
+Apply complete! Resources: 0 added, 1 changed, 0 destroyed.
+```
