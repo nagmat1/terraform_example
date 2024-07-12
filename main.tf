@@ -17,5 +17,5 @@ resource "aws_budgets_budget" "minbudget" {
   limit_amount      = "3"
   limit_unit        = "USD"
   time_unit         = "MONTHLY"
-  time_period_start = "2024-07-01_15:00"
+  time_period_start = "2024-07-01_00:01"
 }
